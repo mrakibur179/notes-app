@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mdrakibur179.github.io/notes-app",
+  "homepage": "https://mrakibur179.github.io/notes-app",
   "name": "note-app",
   "private": true,
   "version": "0.0.0",
@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.4",
+    "github-pages": "^3.0.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwindcss": "^4.1.4",
